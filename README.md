@@ -7,3 +7,5 @@ The code can be customised for more games and it's not limited to the current co
 All of the packets were acquired using Wireshark.
 
 More about the program can be found on this forum post (like compilation etc.): https://bytebattlesarena.net/viewtopic.php?t=12-counter-strike-1-6-udp-proxy-server&p=12#p12
+
+Basic implementation of this proxy server with Valve masterserver listing https://github.com/Rahmid93421/CS-1.6-UDP-Proxy-Forwarder-Example
